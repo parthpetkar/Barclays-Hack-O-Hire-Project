@@ -58,7 +58,7 @@
    In conclusion, our Anomaly Detection Framework offers a robust and scalable solution to the challenges of identifying irregularities in trade data submissions. By leveraging advanced technologies and best practices in data engineering and machine learning, we empower organizations to enhance accuracy, reduce manual effort, and foster self-learning across banking functions. Our solution aims to safeguard data integrity and promote operational excellence in the financial domain through continuous innovation and refinement.
 
 ## Inital PPT
-- [PPT](Asssts/c69e824automated_anomaly_detection_framework_for_identifying_data_irregularities.pdf)
+- [PPT](Assets/c69e824automated_anomaly_detection_framework_for_identifying_data_irregularities.pdf)
 
 ## Final Presentation
 - [PPT](https://he-s3.s3.amazonaws.com/media/sprint/hack-o-hire/team/1920102/9a09405final_barclays_presentation.pdf)
